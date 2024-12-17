@@ -20,6 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogerpydev&show_icons=true&locale=en&layout=compact" alt="rogerpydev" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogerpydev&" alt="rogerpydev" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogerpydev&" alt="rogerpydev" /></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerpydev&layout=compact)](https://github.com/EthanJamesLew/github-readme-stats-academic)
