@@ -1,7 +1,7 @@
 # RogerCliDev README
 <h1 align="center">Hi 👋, I'm RogerCliDev</h1>
 
-![Logo2](https://github.com/user-attachments/assets/c57eca9e-6d5f-4f7b-90eb-98f0c296b3fb)
+
 <h3 align="center">A passionate Python Command Line Interface and Automation Applications Developer from Panamá</h3>
 
 - 🌱 I’m currently learning **Python**
